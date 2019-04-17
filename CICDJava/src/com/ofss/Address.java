@@ -18,7 +18,7 @@ public class Address {
 	private int flatNo;
 	private String streetName;
 	@Override
-	public String toString() {
+	public String toString() {    
 		return "Hi How are you";
 		//return "Address [pincode=" + pincode + ", flatNo=" + flatNo + ", streetName=" + streetName + ", city=" + city
 			//	+ "]";
